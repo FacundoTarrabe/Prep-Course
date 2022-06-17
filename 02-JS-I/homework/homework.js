@@ -31,7 +31,7 @@ function devolverString(str) {
   
 }
 
-function suma(x, y) {
+function suma(x, y) {2+3
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
